@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "MAAC",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 36,
@@ -35,7 +35,11 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
