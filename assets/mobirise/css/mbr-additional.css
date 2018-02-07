@@ -2878,6 +2878,12 @@ body {
   width: auto;
   max-width: 600px;
 }
+.cid-qIpOlsdZlS H4 {
+  color: #0f7699;
+}
+.cid-qIpOlsdZlS P {
+  color: #232323;
+}
 .cid-qIkcMg0I4F {
   padding-top: 135px;
   padding-bottom: 75px;
@@ -2950,7 +2956,7 @@ body {
 }
 .cid-qIkg4gui17 .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #0f7699;
+  background: #b2ccd2;
   margin-right: 2rem;
   transition: all .4s;
 }
@@ -2987,7 +2993,7 @@ body {
   text-align: center;
   border-radius: 50%;
   display: inline-block;
-  background-color: #0f7699;
+  background-color: #b2ccd2;
   top: 20px;
   margin-left: -30px;
 }
@@ -3006,7 +3012,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #0f7699;
+  background-color: #b2ccd2;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
