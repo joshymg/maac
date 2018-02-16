@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
 
 
 
@@ -48,7 +49,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
@@ -653,7 +654,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -2262,6 +2263,8 @@ body {
   }
 }
 .cid-qIkafJnnwT {
+  padding-top: 135px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/02.jpg");
 }
 .cid-qIkafJnnwT .form-container {
@@ -2895,7 +2898,7 @@ body {
   max-width: 600px;
 }
 .cid-qIpOlsdZlS H4 {
-  color: #0f7699;
+  color: #073b4c;
 }
 .cid-qIpOlsdZlS P {
   color: #232323;
@@ -4057,10 +4060,50 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-qIkehe724Z {
-  padding-top: 120px;
+.cid-qJOHz1TBz2 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(45deg, #bc930a, #232323);
+}
+.cid-qJOHz1TBz2 .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qJOJGajTvr {
+  padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-color: #ffffff;
+}
+.cid-qJOJGajTvr .mbr-section-subtitle {
+  color: #b1a374;
+}
+.cid-qJOJGajTvr H2 {
+  color: #4f4943;
+}
+.cid-qJOJI2swAg {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qJOJI2swAg .mbr-text,
+.cid-qJOJI2swAg blockquote {
+  color: #767676;
+}
+.cid-qJON1cJSVW {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
+}
+.cid-qJON1cJSVW .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qJONqsMbRk {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qJONqsMbRk .mbr-text,
+.cid-qJONqsMbRk blockquote {
+  color: #767676;
 }
 .cid-qIkeaDht4O .navbar {
   padding: .5rem 0;
@@ -4437,89 +4480,6 @@ body {
   .cid-qIkeaDht4O .menu-logo {
     flex-shrink: 0;
   }
-}
-.cid-qJBCG7vN0m {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-color: #000000;
-  background: linear-gradient(45deg, #000000, #55b4d4);
-}
-@media (min-width: 992px) {
-  .cid-qJBCG7vN0m .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qJBCG7vN0m .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qJBCG7vN0m .mbr-text {
-    text-align: center;
-  }
-}
-.cid-qJBCGUK7Hd {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background-color: #149dcc;
-  background: linear-gradient(45deg, #149dcc, #000000);
-}
-.cid-qJBCGUK7Hd .media-container-row {
-  flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-qJBCGUK7Hd .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qJBCGUK7Hd .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qJBCGUK7Hd .mbr-text {
-    text-align: center;
-  }
-}
-.cid-qIkewXUVEz {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qIkewXUVEz .counter-container {
-  color: #767676;
-}
-.cid-qIkewXUVEz .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-qIkewXUVEz .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-qIkewXUVEz .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-qIkewXUVEz .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
 }
 .cid-qIkeD8F6vE {
   padding-top: 60px;
